@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "District8.aternos.me",
+    "ip": "District8.aternos.me:28208",
     "port": 28208,
     "version": "",
     "try-creative": false
