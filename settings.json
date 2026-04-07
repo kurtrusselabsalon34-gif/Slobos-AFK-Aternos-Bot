@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "ShutYo2",
     "password": "",
     "type": "offline"
   },
@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 54,
+    "y": 69,
+    "z": -586
   },
   "utils": {
     "auto-auth": {
@@ -31,9 +31,14 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Hey, .CopingBow9174, I know where you live.",
+        "activating...",
+        "deactivating...",
+        "Bohol Philippines.",
+        "Is your name Jehu Dumangas.",
+        "Hey, .PinnochEL, I know where you live.",
+        "I am gonna find you..",
+        "Hey, NotWemmbu I know where you live."
       ]
     },
     "chat-log": true,
@@ -65,6 +70,7 @@
     "console-commands": true
   },
   "combat": {
+    "attack-players": true,
     "attack-mobs": true,
     "auto-eat": true
   },
